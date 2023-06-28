@@ -14,14 +14,15 @@
 1. Repeat 1. to 4.
 2. Type in the console: _rails server -b 0.0.0.0_  
 3. Copy the API key from the web and paste it on the API  
-4. Make make API calls on _https://editor.swagger.io/_ with the code located in _/aswaiga/api/_  
+4. Make make API calls on _https://editor.swagger.io/_ with the code located in _/aswaiga/api/_
+
+
+### Documentation and project monitoring in: https://tree.taiga.io/project/jowie-asw-11/timeline
+
+### Web app: https://aswaiga.fly.dev/
 
 Authors:  
 ➔ SERGIO GUERRERO   
 ➔ JOEL RIVERA  
 ➔ ALBA MARIA SERVER  
 ➔ MARC TURU ROCA    
-
-Documentation and project monitoring in: https://tree.taiga.io/project/jowie-asw-11/timeline
-
-Web app: https://aswaiga.fly.dev/
