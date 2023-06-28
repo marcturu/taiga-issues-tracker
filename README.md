@@ -1,4 +1,4 @@
-# Taiga-like web
+# Taiga/issues-like web
 ### The main goal of this project was to create a web that resembles **https://tree.taiga.io/project/taiga/issues**.  
 ### Thus, on this website all the functionalities that appear in taiga could be carried out.  
 ### To see the look-alike website:  
