@@ -25,4 +25,17 @@ Authors:
 ➔ SERGIO GUERRERO   
 ➔ JOEL RIVERA  
 ➔ ALBA MARIA SERVER  
-➔ MARC TURU ROCA    
+➔ MARC TURU ROCA  
+
+### Main web page view:  
+![9e47892e-32a3-4137-a22f-e85f946a01db (1) copia](https://github.com/marcturu/ASW-Project/assets/90869159/573a6c85-9f28-47bc-a164-4dd2bf9cdcba)  
+![9e47892e-32a3-4137-a22f-e85f946a01db (1)](https://github.com/marcturu/ASW-Project/assets/90869159/bc3decbd-9922-4d18-9cd5-fbfc8d84d91c)  
+
+
+
+### Main API calls:  
+<img width="730" alt="Captura de Pantalla 2023-07-15 a las 13 18 59" src="https://github.com/marcturu/ASW-Project/assets/90869159/391c1ab7-bd5b-40ce-ad5e-1ab2b745be0c">
+
+  
+
+
