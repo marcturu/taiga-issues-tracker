@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby "3.1.2"
+ruby '3.2.9'
 
 gem "rails",           "7.0.4"
 gem "sassc-rails",     "2.1.2"
@@ -15,7 +15,7 @@ gem "bootsnap",        "1.12.0", require: false
 gem 'rack-cors'
 
 group :development, :test do
-  gem "sqlite3", "1.4.2"
+  gem 'sqlite3', '~> 1.5'
   gem "debug",   "1.5.0", platforms: %i[ mri mingw x64_mingw ]
 end
 
@@ -43,3 +43,6 @@ gem "omniauth-rails_csrf_protection", "~> 1.0"
 # on a native Windows system:
 # gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "dockerfile-rails", ">= 1.2", :group => :development
+gem 'tzinfo-data'
+
+gem 'dotenv-rails', groups: [:development, :test]

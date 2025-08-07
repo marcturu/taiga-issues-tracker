@@ -1,13 +1,13 @@
 openapi: 3.0.3
 info:
   version: 1.0.0
-  title: ASWAIGA
+  title: ASW-Project
   description: |-
-    This is the Open API documentation for the REST API of our beloved application **ASWAIGA**
+    This is the Open API documentation for the REST API of our application.
 
-    - [The ASWAIGA repository](https://github.com/ASWAIGA/aswaiga)
+    - [The ASW Project repository](https://github.com/marcturu/ASW-Project)
 servers:
-  - url: http://3.235.198.184:8080
+  - url: http://localhost:3000
 tags:
   - name: issues
 paths:
