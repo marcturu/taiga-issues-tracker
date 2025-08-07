@@ -33,7 +33,7 @@ bundle install
 ### 3. Setup environment variables  
 Create a .env file in the project root with:  
 ```ini
-GOOGLE_CLIENT_ID=your_google_client_id.apps.googleusercontent.com
+GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 ```
  > **Note:**  
