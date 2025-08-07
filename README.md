@@ -71,6 +71,8 @@ Access the app at http://localhost:3000.
 ### Create Issue Page:
 ![Captura de pantalla 2025-08-07 175614](https://github.com/user-attachments/assets/98d347dc-f079-43e7-84e8-c79288f1dd51)
 -
+![Captura de pantalla 2025-08-07 184422](https://github.com/user-attachments/assets/73301200-9cdb-4445-97cd-4a8705d23256)
+-
 ![Captura de pantalla 2025-08-07 175752](https://github.com/user-attachments/assets/2eb6ead1-0c2b-42d5-b6a5-2fe83757ced7)
 -
 ![Captura de pantalla 2025-08-07 180205](https://github.com/user-attachments/assets/c2ccb663-bc38-433e-aefb-2f20c870e154)
