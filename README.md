@@ -1,5 +1,7 @@
 # ⚠️ ASW-Project — Taiga-like Issue Tracker Web  
 
+<sub>🗓️ Developed in April 2023</sup>  
+
 This project aims to replicate the main functionalities of the **[Taiga Issues Page](https://tree.taiga.io/project/taiga/issues)** in a Rails 7 web application.
 
 ---
@@ -35,7 +37,7 @@ GOOGLE_CLIENT_ID=your_google_client_id.apps.googleusercontent.com
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 ```
  > **Note:**  
- > Get your Google OAuth credentials from your Google Cloud Console.
+ > Get your Google OAuth credentials from your [Google Cloud Console](https://console.cloud.google.com/).
 
 ### 4. Setup the database  
 ```bash
@@ -86,4 +88,4 @@ Access the app at http://localhost:3000.
 - SERGIO GUERRERO   
 - JOEL RIVERA  
 - ALBA MARIA SERVER  
-- MARC TURU ROCA  
+- MARC TURU ROCA
