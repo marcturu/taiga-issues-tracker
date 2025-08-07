@@ -1,41 +1,89 @@
-# Taiga/issues-like web
-### The main goal of this project was to create a web that resembles **https://tree.taiga.io/project/taiga/issues**.  
-### Thus, on this website all the functionalities that appear in taiga could be carried out.  
-### To see the look-alike website:  
-1. Go to: https://awsacademy.instructure.com/courses/40079/modules and click _Laerner Lab_.  
-2. Click _▶ Start Lab_ and, when the color of the ASW circle turns green, press it.
-3. Open the _Cloud 9_ environment (Projecte__aswaiga).
-4. Type in the console: _cd aswaiga_
-5. Type in the console: _rails s_
-6. Press the _Preview_ + _Preview Running Application_.
-7. Open the Pop Out window to see the look-alike website.
+# ⚠️ ASW-Project — Taiga-like Issue Tracker Web  
 
-### To see the design and implementation of a Richardson Maturity Model level 2 REST API for our web application: 
-1. Repeat 1. to 4.
-2. Type in the console: _rails server -b 0.0.0.0_  
-3. Copy the API key from the web and paste it on the API  
-4. Make make API calls on _https://editor.swagger.io/_ with the code located in _/aswaiga/api/_
+This project aims to replicate the main functionalities of the **[Taiga Issues Page](https://tree.taiga.io/project/taiga/issues)** in a Rails 7 web application.
 
+---
 
-### Documentation and project monitoring in: https://tree.taiga.io/project/jowie-asw-11/timeline
+## ✅ Features
 
-### Web app: https://aswaiga.fly.dev/
+- Basic Rails 7 app with user login and Google OAuth authentication.
+- REST API documented and testable with OpenAPI/Swagger.
+- Local development with rails s or rails server -b 0.0.0.0.
+- Issue creation with search flters.
+- Comments and watchers addition to issues.
 
-Authors:  
-➔ SERGIO GUERRERO   
-➔ JOEL RIVERA  
-➔ ALBA MARIA SERVER  
-➔ MARC TURU ROCA  
+---
 
-### Main web page view:  
+## 🛠 Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/marcturu/ASW-Project.git
+cd ASW-Project
+```
+
+### 2. Install dependencies  
+```bash
+bundle install
+```
+
+### 3. Setup environment variables  
+Create a .env file in the project root with:  
+```ini
+GOOGLE_CLIENT_ID=your_google_client_id.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=your_google_client_secret
+```
+ > **Note:**  
+ > Get your Google OAuth credentials from your Google Cloud Console.
+
+### 4. Setup the database  
+```bash
+rails db:create
+rails db:migrate
+rails db:seed # optional if seed data is included
+```
+
+### 5. Run the Rails server  
+Visually:
+```bash
+rails s
+```
+Via API endpoints in the **[Swagger Editor](https://editor.swagger.io/)** with the OpenAPI specification from `/api/api.yaml` and the API key generated from the profile page (if applicable):
+```bash
+rails server -b 0.0.0.0
+```
+Access the app at http://localhost:3000.  
+
+---
+
+## 📷 Examples:  
+
+### Main Page:
 ![9e47892e-32a3-4137-a22f-e85f946a01db (1) copia](https://github.com/marcturu/ASW-Project/assets/90869159/573a6c85-9f28-47bc-a164-4dd2bf9cdcba)  
-![9e47892e-32a3-4137-a22f-e85f946a01db (1)](https://github.com/marcturu/ASW-Project/assets/90869159/bc3decbd-9922-4d18-9cd5-fbfc8d84d91c)  
+![9e47892e-32a3-4137-a22f-e85f946a01db (1)](https://github.com/marcturu/ASW-Project/assets/90869159/bc3decbd-9922-4d18-9cd5-fbfc8d84d91c)    
+-
+### Profile Page:
+![Captura de pantalla 2025-08-07 180259](https://github.com/user-attachments/assets/fac37a49-3cd8-4c6f-bc11-663df987dc20)
+-
+### Create Issue Page:
+![Captura de pantalla 2025-08-07 175614](https://github.com/user-attachments/assets/98d347dc-f079-43e7-84e8-c79288f1dd51)
+-
+![Captura de pantalla 2025-08-07 175752](https://github.com/user-attachments/assets/2eb6ead1-0c2b-42d5-b6a5-2fe83757ced7)
+-
+![Captura de pantalla 2025-08-07 180205](https://github.com/user-attachments/assets/c2ccb663-bc38-433e-aefb-2f20c870e154)
+-
+### API calls (Swagger):  
+![Captura de pantalla 2025-08-07 174604](https://github.com/user-attachments/assets/f3746377-4e1b-4887-95f3-b5195b0d0ae4)
+-
+### Taiga Project Timeline:
+![Captura de pantalla 2025-08-07 174846](https://github.com/user-attachments/assets/0d60efe3-59d0-4862-8d53-cc284dced361)
 
+---
 
+## ⚖️ Authors
 
-### Main API calls:  
-<img width="730" alt="Captura de Pantalla 2023-07-15 a las 13 18 59" src="https://github.com/marcturu/ASW-Project/assets/90869159/391c1ab7-bd5b-40ce-ad5e-1ab2b745be0c">
-
-  
-
-
+- SERGIO GUERRERO   
+- JOEL RIVERA  
+- ALBA MARIA SERVER  
+- MARC TURU ROCA  
