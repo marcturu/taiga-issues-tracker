@@ -59,7 +59,7 @@ Access the app at http://localhost:3000.
 
 ---
 
-## 📷 Examples:  
+## 📷 Screenshots  
 
 ### Main Page:
 ![9e47892e-32a3-4137-a22f-e85f946a01db (1) copia](https://github.com/marcturu/ASW-Project/assets/90869159/573a6c85-9f28-47bc-a164-4dd2bf9cdcba)  
