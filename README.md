@@ -85,7 +85,7 @@ Access the app at http://localhost:3000.
 
 ---
 
-## ⚖️ Authors
+## 👥 Authors
 
 - SERGIO GUERRERO   
 - JOEL RIVERA  
