@@ -87,7 +87,7 @@ Access the app at http://localhost:3000.
 
 ## 👥 Authors
 
-- SERGIO GUERRERO   
-- JOEL RIVERA  
-- ALBA MARIA SERVER  
-- MARC TURU ROCA
+- Alba Maria Server  
+- Joel Rivera  
+- Sergio Guerrero   
+- Marc Turu Roca
