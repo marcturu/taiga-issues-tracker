@@ -85,7 +85,11 @@ Access the app at http://localhost:3000.
 
 ---
 
-## 👥 Authors
+## ⚖️ Copyright
+
+© 2023 Marc Turu Roca and collaborators. All rights reserved.
+This project is the joint intellectual property of its authors.
+No part may be copied, modified, distributed, or used without prior written permission from all authors.
 
 - Alba Maria Server  
 - Joel Rivera  
