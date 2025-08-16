@@ -1,6 +1,6 @@
 # ⚠️ ASW-Project — Taiga Issues-like Tracker Web  
 
-<sub>🗓️ Developed in May 2023</sup>  
+<sub>🗓️ Developed in June 2023</sup>  
 
 This project aims to replicate the main functionalities of the **[Taiga Issues Page](https://tree.taiga.io/project/taiga/issues)** in a Rails 7 web application.
 
