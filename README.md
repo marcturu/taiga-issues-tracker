@@ -8,7 +8,7 @@ This project aims to replicate the main functionalities of the **[Taiga Issues P
 
 ## ✅ Features
 
-- Basic Rails 7 app with user login and Google OAuth authentication.
+- Basic **Rails 7** app with user login and Google OAuth authentication.
 - REST API documented and testable with OpenAPI/Swagger.
 - Local development with rails s or rails server -b 0.0.0.0.
 - Issue creation with search flters.
