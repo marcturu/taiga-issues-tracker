@@ -13,6 +13,7 @@ This project aims to replicate the main functionalities of the **[Taiga Issues P
 - Local development with rails s or rails server -b 0.0.0.0.
 - Issue creation with search flters.
 - Comments and watchers addition to issues.
+- Scrum format tracked through Taiga (last image in the README)
 
 ---
 
