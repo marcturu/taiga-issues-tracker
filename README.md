@@ -13,7 +13,7 @@ This project aims to replicate the main functionalities of the **[Taiga Issues P
 - Local development with rails s or rails server -b 0.0.0.0.
 - Issue creation with search flters.
 - Comments and watchers addition to issues.
-- Scrum format tracked through Taiga (last image in the README)
+- Scrum format tracked through [Taiga](https://tree.taiga.io/project/jowie-asw-11/timeline) (last images in the README).
 
 ---
 
@@ -81,8 +81,9 @@ Access the app at http://localhost:3000.
 ### API calls (Swagger):  
 ![Captura de pantalla 2025-08-07 174604](https://github.com/user-attachments/assets/f3746377-4e1b-4887-95f3-b5195b0d0ae4)
 -
-### Taiga Project Timeline:
-![Captura de pantalla 2025-08-07 174846](https://github.com/user-attachments/assets/0d60efe3-59d0-4862-8d53-cc284dced361)
+### Taiga:
+![Captura de pantalla 2025-08-07 174846](https://github.com/user-attachments/assets/0d60efe3-59d0-4862-8d53-cc284dced361)  
+![Sprint2](https://github.com/user-attachments/assets/2e3bec9d-1869-4b24-8d78-a109fafb2235)
 
 ---
 
