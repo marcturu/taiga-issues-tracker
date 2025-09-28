@@ -59,6 +59,9 @@ rails server -b 0.0.0.0
 Access the app at http://localhost:3000.  
 
 ---
+### Original code at _https://github.com/ASWAIGA_
+
+---
 
 ## 📷 Screenshots  
 
