@@ -22,8 +22,8 @@ This project aims to replicate the main functionalities of the **[Taiga Issues P
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/marcturu/ASW-Project.git
-cd ASW-Project
+git clone https://github.com/marcturu/taiga-issues-like-webapp.git
+cd taiga-issues-like-webapp
 ```
 
 ### 2. Install dependencies  
