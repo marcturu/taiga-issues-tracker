@@ -1,4 +1,4 @@
-# ⚠️ ASW-Project — Taiga Issues-like Tracker Web  
+# ⚠️ ASW-Project — Taiga Issues-like WebApp    
 
 <sub>🗓️ Developed in June 2023</sup>  
 
