@@ -1,4 +1,4 @@
-# ⚠️ ASW-Project — Taiga Issues Tracker    
+# 🐞 ASW-Project — Taiga Issues Tracker    
 
 <sub>🗓️ Developed in June 2023</sup>  
 
