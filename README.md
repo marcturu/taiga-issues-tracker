@@ -65,28 +65,28 @@ Access the app at http://localhost:3000.
 
 ## 📷 Screenshots  
 
-### Main Page:
-![9e47892e-32a3-4137-a22f-e85f946a01db (1) copia](https://github.com/marcturu/ASW-Project/assets/90869159/573a6c85-9f28-47bc-a164-4dd2bf9cdcba)  
-![9e47892e-32a3-4137-a22f-e85f946a01db (1)](https://github.com/marcturu/ASW-Project/assets/90869159/bc3decbd-9922-4d18-9cd5-fbfc8d84d91c)    
+### Main:
+![Main0](screenshots/main0.jpg)
+![Main1](screenshots/main1.jpg)
 -
-### Profile Page:
-![Captura de pantalla 2025-08-07 180259](https://github.com/user-attachments/assets/fac37a49-3cd8-4c6f-bc11-663df987dc20)
+### Profile:
+![Profile](screenshots/profile.jpg)
 -
-### Create Issue Page:
-![Captura de pantalla 2025-08-07 175614](https://github.com/user-attachments/assets/98d347dc-f079-43e7-84e8-c79288f1dd51)
+### Create Issue:
+![CreateIssue0](screenshots/create_issue0.jpg)
 -
-![Captura de pantalla 2025-08-07 184422](https://github.com/user-attachments/assets/73301200-9cdb-4445-97cd-4a8705d23256)
+![CreateIssue1](screenshots/create_issue1.jpg)
 -
-![Captura de pantalla 2025-08-07 175752](https://github.com/user-attachments/assets/2eb6ead1-0c2b-42d5-b6a5-2fe83757ced7)
+![CreateIssue2](screenshots/create_issue2.jpg)
 -
-![Captura de pantalla 2025-08-07 180205](https://github.com/user-attachments/assets/c2ccb663-bc38-433e-aefb-2f20c870e154)
+![CreateIssue3](screenshots/create_issue3.jpg)
 -
 ### API calls (Swagger):  
-![Captura de pantalla 2025-08-07 174604](https://github.com/user-attachments/assets/f3746377-4e1b-4887-95f3-b5195b0d0ae4)
+![APIcallsSwagger](screenshots/api_calls_swagger.jpg)
 -
 ### Taiga:
-![Captura de pantalla 2025-08-07 174846](https://github.com/user-attachments/assets/0d60efe3-59d0-4862-8d53-cc284dced361)  
-![Sprint2](https://github.com/user-attachments/assets/2e3bec9d-1869-4b24-8d78-a109fafb2235)
+![Taiga0](screenshots/taiga0.jpg)
+![Taiga1](screenshots/taiga1.jpg)
 
 ---
 
