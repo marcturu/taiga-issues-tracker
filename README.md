@@ -69,6 +69,9 @@ Access the app at http://localhost:3000.
 ![Main0](screenshots/main0.jpg)
 ![Main1](screenshots/main1.jpg)
 -
+### Profile:
+![Profile](screenshots/profile.jpg)
+-
 ### Create Issue:
 ![CreateIssue0](screenshots/create_issue0.jpg)
 -
