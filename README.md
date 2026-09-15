@@ -87,16 +87,3 @@ Access the app at http://localhost:3000.
 ### Taiga:
 ![Taiga0](screenshots/taiga0.jpg)
 ![Taiga1](screenshots/taiga1.jpg)
-
----
-
-## ⚖️ Copyright & License
-
-© 2023 Marc Turu Roca and collaborators. All rights reserved.  
-This project is the joint intellectual property of its authors.  
-No part may be copied, modified, distributed, or used without prior written permission from all authors.  
-
-- Alba Maria Server  
-- Joel Rivera  
-- Sergio Guerrero   
-- Marc Turu Roca
