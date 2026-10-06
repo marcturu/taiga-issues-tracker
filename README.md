@@ -1,4 +1,4 @@
-# 🐞 Taiga Issues Tracker — Issue tracking Rails 7 web application    
+# 🐞 Taiga Issues Tracker — Rails 7 web application replicating core issue tracking features from Taiga
 
 <sub>🗓️ Developed in June 2023</sup>  
 
