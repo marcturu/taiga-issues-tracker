@@ -1,4 +1,4 @@
-# 🐞 ASW-Project — Taiga Issues Tracker    
+# 🐞 Taiga Issues Tracker — Issue tracking Rails 7 web application    
 
 <sub>🗓️ Developed in June 2023</sup>  
 
